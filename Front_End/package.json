@@ -19,7 +19,7 @@
     "jquery.easing": "^1.4.1",
     "mdbootstrap": "^4.6.1",
     "mdbreact": "^4.8.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "query-string": "^6.2.0",
     "react": "^16.6.3",
     "react-bootstrap": "^0.32.4",
