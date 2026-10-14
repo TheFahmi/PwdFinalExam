@@ -15,7 +15,7 @@
     "bootstrap-less": "^3.3.8",
     "core-js": "^3.6.4",
     "eslint-plugin-flowtype": "^4.6.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.easing": "^1.4.1",
     "mdbootstrap": "^4.6.1",
     "mdbreact": "^4.8.7",
